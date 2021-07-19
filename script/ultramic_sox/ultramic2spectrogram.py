@@ -1,3 +1,5 @@
+# note: assumes SoX is installed on platform the script is being run from - http://sox.sourceforge.net 
+
 from subprocess import call
 import datetime
 import os
